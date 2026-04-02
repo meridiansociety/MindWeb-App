@@ -1,0 +1,1 @@
+- [MindWeb Project](project_mindweb.md) — Full-stack knowledge graph SaaS: React/FastAPI/Neo4j/Pinecone/Celery/OpenAI/Stripe, build started 2026-04-02
